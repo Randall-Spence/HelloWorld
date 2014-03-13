@@ -9,11 +9,11 @@ if len(original) > 0 and original.isalpha():
 
     print original
     word = original.lower()
-    #Prints original variable, stores all lower case version     of original variable as word variable.
+    #Prints original variable, stores all lower case version of original variable as word variable.
 
 else:
     print 'empty'
-    #If the "if" conditions are not met, prints empty and         program terminates.
+    #If the "if" conditions are not met, prints empty and program terminates.
     
 first = word[0]
 #Stores the first letter of word variable as first variable.

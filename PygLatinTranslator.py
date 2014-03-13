@@ -1,3 +1,5 @@
+print 'Welcome to the Pig Latin Translator!'
+
 pyg = 'ay'
 #Variable used to add the 'ay' on the end of the translated word.
 
